@@ -7,3 +7,4 @@ In CSS Using:
 
 Level: Intermediate
 
+<img width="915" alt="goal" src="https://github.com/nvmarzakov/2023-Web-development-bootcamp/assets/114495254/5d371506-d916-4fc3-8f04-b6003b1f67b8">
