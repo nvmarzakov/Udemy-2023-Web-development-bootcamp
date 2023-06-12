@@ -3,6 +3,8 @@ This is a simple CSS project that covers Flexbox.
 The goal is to styling a pricing table using Flexbox concepts.
 
 The main file looking like this : 
+
+
 ![image](https://github.com/nvmarzakov/2023-Web-development-bootcamp/assets/114495254/fb2903ad-0d06-4384-9284-cc128350e7ed)
 
 The ultimate goals is:
